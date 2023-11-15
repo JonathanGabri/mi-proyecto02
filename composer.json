@@ -1,6 +1,6 @@
 {
     "name": "jonathan/saludo",
-    "description": "paquete saludo",
+    "description": "saludo paquete",
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -14,17 +14,6 @@
             "email": "alvaradojonathang08@gmail.com"
         }
     ],
-
-    "repositories": [
-        {
-            "type": "path",
-            "url": "packages/juan/saludo"
-        }
-    ],
-
     "minimum-stability": "dev",
-    "require": {
-        "juan/saludo": "*"
-    }
-    
+    "require": {}
 }
