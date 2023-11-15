@@ -1,6 +1,6 @@
 {
-    "name": "jonathan/saludo",
-    "description": "saludo paquete",
+    "name": "jonathangabrig/saludo",
+    "description": "saludo paquete", 
     "type": "library",
     "license": "MIT",
     "autoload": {
